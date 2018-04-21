@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\ja\desktop\c++ zadania moodle\lab8\lab8\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\lab8\lab8\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\lab8\lab8\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\lab8\lab8\source.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  lab8.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab8\Debug\lab8.exe
+  lab8.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab8\Debug\lab8.pdb (Full PDB)
